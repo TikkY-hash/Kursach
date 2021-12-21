@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "83463ba7-2dd6-4617-9a6a-27ef825eb7b5": {
+      "ProjectGuid": "83463ba7-2dd6-4617-9a6a-27ef825eb7b5",
+      "DisplayName": "WashingMachine",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
